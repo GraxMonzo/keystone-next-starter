@@ -1,4 +1,3 @@
-import "../styles/global.css";
 import { useQuery } from "@apollo/react-hooks";
 import { withApollo } from "../lib/apollo";
 import { NetworkStatus } from "apollo-client";
